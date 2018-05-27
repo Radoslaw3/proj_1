@@ -1,0 +1,24 @@
+
+
+
+{
+  "nazwa": "www.amazon.com",
+  "produkty" : [
+    {
+      "typ" : "komputer",
+      "nazwa" : "dell",
+      "cena"  : "500",
+      "dron" : nazwa,
+    },
+    {
+      "typ" : "dron",
+      "nazwa" : "cbr1000",
+      "cena" : "100"
+
+    }
+    ]
+}
+
+
+private Collection<Produkt> produkty; //zmiana powyzsze na to
+private String nazwa;
