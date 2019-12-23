@@ -53,6 +53,11 @@ sout " = " + sum;
 }
 }
 
+125.
+System.out.println(28+5<=4+29);
+System.out.println((28+5) <= (4+29));
+
+126.
 
 
 
