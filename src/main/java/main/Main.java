@@ -42,7 +42,16 @@ System.out.print(product.substring(4,6));
 }
 
 124.
-
+public class Whizlabs{
+Psvm{
+int sum = 0;
+for (int x =0; x<=10; x++){
+sum += x;
+sout "Sum for 0 to " + x
+sout " = " + sum;
+}
+}
+}
 
 
 
